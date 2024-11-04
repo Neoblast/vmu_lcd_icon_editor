@@ -23,6 +23,7 @@ Features:
 
 Example C function to draw the icon to the VMU
 
+
 int sendIconToVMU(const unsigned char *icon) {
     uint8 lcd_data[48 * 32 / 8];
     maple_device_t *vmu;
