@@ -8,9 +8,11 @@ Users can draw on the canvas, save the icon as a C array, and clear the canvas.
 
 Usage: 
 Left click on a pixel to paint it.
+
 Right click on a pixel to erase it.
 
 Drag the left click over the canvas to paint the selected pixels.
+
 Drag the right click over the canvas to erase the selected pixels.
 
 Press on any of the buttons to copy the C array to the clipboard or as a header file to use in projects.
