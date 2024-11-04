@@ -7,6 +7,7 @@ This python application provides a VERY simple LCD editor to create monochrome 4
 Users can draw on the canvas, save the icon as a C array, and clear the canvas.
 
 Usage: 
+
 Left click on a pixel to paint it.
 
 Right click on a pixel to erase it.
