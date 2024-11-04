@@ -1,5 +1,7 @@
 VMU Icon Editor (48x32) - Version 0.1
+
 Author: Neoblast
+
 Description:
 This python application provides a VERY simple LCD editor to create monochrome 48x32 pixel LCD images for the Sega Dreamcast's VMU (Visual Memory Unit) to use in homebrew projects with KOS.
 Users can draw on the canvas, save the icon as a C array, and clear the canvas.
