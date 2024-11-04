@@ -23,5 +23,11 @@ Features:
 - Save the current icon as a C array that can be used in projects
 - Clear the entire canvas
 
+Installation:
+
+Install tkinter package if needed to run this python app
+
+From the python console: 
+pip install tk
 
 
